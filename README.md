@@ -1,4 +1,4 @@
-# Volatility Targeting — EGARCH(1,1) with AFML Validation Suite
+# Volatility Targeting - EGARCH(1,1) with AFML Validation Suite
 
 Stratégie de **volatility targeting** sur GLD (Gold ETF) utilisant un modèle **EGARCH(1,1)** en rolling window, avec une suite de validation complète inspirée de *Advances in Financial Machine Learning* (López de Prado).
 
